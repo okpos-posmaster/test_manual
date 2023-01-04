@@ -54,6 +54,6 @@ __This will also be bold__
 Content cell 1 | Content cell 2 
 Content column 1 | Content column 2
 
-공백의 경우 스페이스바 두번 없이
+공백의 경우 스페이스바 두번 없이  
 공백의 경우 스페이스바 두번 적용  
 
